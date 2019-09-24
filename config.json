@@ -1,0 +1,8 @@
+{
+    "apikeys":{
+        "binaryedge":{
+            "url":"https://app.binaryedge.io",
+            "key":"XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+        }
+    }
+}
