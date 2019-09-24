@@ -41,7 +41,7 @@ import leaklooker
 # -> select how many pages you want
 leaklooker.run(elastic=True,couchdb=False,mongodb=False,gitlab=False,rsync=False,
         jenkins=False, sonarqube=False, cassandra=False,
-        rethink=False,listing=False,kibana=False,first=0,last=0):
+        rethink=False,listing=False,kibana=False,first=0,last=0)
 ```
 
 ## Future
